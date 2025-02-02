@@ -1,3 +1,4 @@
 # CodeAlpha_Project_Name.
-Try to do best
+This is my frist git repository.
+<br>
 author - Rupon sutradhar
